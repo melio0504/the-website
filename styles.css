@@ -1,3 +1,29 @@
 * {
     background-color: antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1, 
+.description {
+    text-align: center;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.list {
+    font-size: 18px;
+    text-align: center;
+}
+
+ul.foods {
+    display: inline-block;
+    text-align: left;
+}
+
+.footer {
+    font-size: 14px;
+    display: block;
+    margin-top: 250px;
 }

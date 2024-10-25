@@ -1,0 +1,42 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+}
+
+.title.Ingredients,
+.title.Instructions {
+    font-size: 24px;
+}
+
+.kare-kare {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.description {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.list {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+.instructions {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
