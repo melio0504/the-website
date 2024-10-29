@@ -1,29 +1,35 @@
 * {
     background-color: antiquewhite;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1, 
 .description {
     text-align: center;
+    padding: 10px;
+    margin: 0 auto;
 }
 
 .description {
-    font-size: 14px;
+    font-size: 14px;    
 }
 
 .list {
     font-size: 18px;
     text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid black;
 }
 
 ul.foods {
     display: inline-block;
     text-align: left;
+    list-style-type: disc;
 }
 
 .footer {
     font-size: 14px;
     display: block;
-    margin-top: 250px;
+    margin-top: 8px;
 }
